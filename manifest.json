@@ -1,0 +1,10 @@
+{
+  "name": "Open As Popup",
+  "description": "Open a link as a popup",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": [ "clipboardRead" ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
